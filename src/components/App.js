@@ -1,12 +1,15 @@
-import React from 'react';
-import logo from '../img/XPO-Logo.svg'
+import React from "react";
+import Header from "./Header";
 
-const App = ()=>{
-    return (
-       <div className="px-5 py-5">
-           <img className="h-10" src={logo} alt="XPO Logo"></img>
-       </div>
-      );
-}
+
+
+const App = () => {
+  return (
+    <div>
+     
+      <Header></Header>
+    </div>
+  );
+};
 
 export default App;
