@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0236fc86.chunk.css",
+    "main.js": "/static/js/main.179f7781.chunk.js",
+    "main.js.map": "/static/js/main.179f7781.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8b8ea467.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8b8ea467.js.map",
+    "static/js/2.69f78bf5.chunk.js": "/static/js/2.69f78bf5.chunk.js",
+    "static/js/2.69f78bf5.chunk.js.map": "/static/js/2.69f78bf5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.eb7394d380e85ec15e58b9c315f00355.js": "/precache-manifest.eb7394d380e85ec15e58b9c315f00355.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0236fc86.chunk.css.map": "/static/css/main.0236fc86.chunk.css.map",
+    "static/js/2.69f78bf5.chunk.js.LICENSE.txt": "/static/js/2.69f78bf5.chunk.js.LICENSE.txt",
+    "static/media/XPO-Logo.svg": "/static/media/XPO-Logo.196e2e87.svg",
+    "static/media/hero.jpg": "/static/media/hero.82aeea77.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b8ea467.js",
+    "static/js/2.69f78bf5.chunk.js",
+    "static/css/main.0236fc86.chunk.css",
+    "static/js/main.179f7781.chunk.js"
+  ]
+}
